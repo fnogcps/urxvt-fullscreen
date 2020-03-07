@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 pkgdir="/usr/lib/urxvt/perl/fullscreen"
 sudo install -Dm644 fullscreen ${pkgdir}
